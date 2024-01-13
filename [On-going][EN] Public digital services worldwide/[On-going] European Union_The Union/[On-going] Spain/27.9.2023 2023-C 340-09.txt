@@ -14,10 +14,6 @@ Reference4: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32018R18
 
 State: Spain (ES)
 
-1. Exemption from the visa requirement in accordance with Article 6(1)
-
-1.1. The visa exemption for holders of diplomatic, service/official or special passports:
-
 yes = visa exempted:
 
 ALGERIA
