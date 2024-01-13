@@ -1,0 +1,5 @@
+Sede Judicial Electrónica: https://sedejudicial.justicia.es/
+Registro Electrónico General (REG): https://reg.redsara.es/
+Agencia Estatal Boletín Oficial del Estado: https://www.boe.es/
+Carpeta Ciudadana: https://carpetaciudadana.gob.es/carpeta/clave.htm
+Cl@ve (Identidad Electrónica para las Administraciones. acceso electrónico de los ciudadanos a los servicios públicos): https://clave.gob.es/clave_Home/dnin.html
