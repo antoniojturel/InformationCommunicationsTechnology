@@ -1,5 +1,4 @@
-Reclamación previa
-Recurso de alzada
-Recurso de reposición
-Recurso potestativo de reposición
-Recurso contencioso-administrativo
+1. Reclamación previa
+2. Recurso de alzada
+3. Recurso de reposición
+4. Recurso potestativo de reposición

@@ -1,5 +1,14 @@
-Sede Judicial Electrónica: https://sedejudicial.justicia.es/
-Registro Electrónico General (REG): https://reg.redsara.es/
-Agencia Estatal Boletín Oficial del Estado: https://www.boe.es/
-Carpeta Ciudadana: https://carpetaciudadana.gob.es/carpeta/clave.htm
-Cl@ve (Identidad Electrónica para las Administraciones. Acceso electrónico de los ciudadanos a los servicios públicos): https://clave.gob.es/clave_Home/dnin.html
+1. Sede Judicial Electrónica: https://sedejudicial.justicia.es/
+2. Registro Electrónico General (REG): https://reg.redsara.es/
+3. Agencia Estatal Boletín Oficial del Estado (BOE): https://www.boe.es/
+4. Boletín Oficial de la Comunidad de Madrid (BOCM): https://www.bocm.es/
+5. Carpeta Ciudadana: https://carpetaciudadana.gob.es/carpeta/clave.htm
+6. Cl@ve (Identidad Electrónica para las Administraciones. Acceso electrónico de los ciudadanos a los servicios públicos): https://clave.gob.es/clave_Home/dnin.html
+7. Sede electronica (Comunidad de Madrid): https://sede.comunidad.madrid/
+8. Sede electronica (Madrid): https://sede.madrid.es/portal/site/tramites
+9. Sede electronica (Las Rozas de Madrid): https://sede.lasrozas.es/info.0
+10. Sede electronica (Majadahonda): https://sede.majadahonda.org/portal/entidades.do?ent_id=2&idioma=1
+11. Sede electronica (Pozuelo de Alarcon): https://sede.pozuelodealarcon.es/sede/action/main?method=enter
+12. Sede electronica (Andalucia): https://www.juntadeandalucia.es/servicios/sede.html
+13. Sede electronica (Granada): https://sedeelectronica.granada.org/web/inicioWebc.do?opcion=noreg
+14. Sede electronica (Motril): https://sede.motril.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_HOME
