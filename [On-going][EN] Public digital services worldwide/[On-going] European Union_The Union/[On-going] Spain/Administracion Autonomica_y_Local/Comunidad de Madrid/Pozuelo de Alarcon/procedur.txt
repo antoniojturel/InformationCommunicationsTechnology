@@ -1,0 +1,130 @@
+Number|Name|Description|Purpose|Who can request it|When can be requested it|Where can be requested it|who is the administrative resolver|Max period of time to resolve|economical fees or taxes|document requirements|Next procedures or legal proccesses
+
+
+1|Animales potencialmente peligrosos
+2|Autorización para participación de animales en eventos
+3|Asociaciones: Inscripción en el Registro Municipal de Asociaciones de Pozuelo
+4|Oficina Municipal de Información al Consumidor (OMIC): Reclamaciones y quejas
+5|Convocatoria de Becas de Estudio de la Escuela Municipal de Música y Danza para el curso 2023/2024
+6|Convocatoria de subvenciones del Patronato Municipal de Cultura a entidades culturales sin ánimo de lucro
+7|Solicitud de espacios del Patronato Municipal de Cultura para realizar exposiciones.
+8|V Premio de novela histórica escritores con la historia de Pozuelo de Alarcón
+9|VIII Concurso de Pintura de Pozuelo de Alarcón
+10|Adhesión de empresas al Convenio de Colaboración INNPAR VIVERO
+11|Convocatoria para la concesión del Sello de Excelencia "Pozuelo es Calidad"
+12|Patrocinios y Colaboraciones en Proyectos de Desarrollo Empresarial y Comercio
+13|Venta Ambulante en dominio público y Mercadillo Municipal: solicitud y renovación de autorización
+14|Ayudas a la Conciliación
+15|Mayores: Servicio centro de día
+16|Mayores: Servicio de ayuda a domicilio
+17|Mayores: Servicio de teleasistencia
+18|Discapacidad: Tarjeta de estacionamiento para personas con discapacidad y movilidad o agudeza visual reducida
+19|Catastro: Alteración de bienes Inmuebles de Naturaleza Urbana
+20|Catastro: Alteración del titular catastral de Bienes Inmuebles de Naturaleza Urbana
+21|Catastro: Certificados de Datos del Padrón del Impuesto sobre Bienes Inmuebles
+22|Catastro: Obtención de certificaciones catastrales
+23|Devolución de ingresos indebidos
+24|Domiciliación bancaria (IVTM, IBI, Vados, IAE)
+25|Domicilio fiscal: cambio a efectos de notificaciones
+26|IAE: Liquidación del Impuesto sobre Actividades Económicas
+27|IBI: Liquidación del Impuesto sobre Bienes Inmuebles
+28|ICIO: Autoliquidación del Impuesto sobre Construcciones, Instalaciones y Obras
+29|ICIO: Bonificaciones
+30|IVTM: Autoliquidación del Impuesto sobre Vehículos de Tracción Mecánica
+31|Licencia de apertura y funcionamiento de actividades e instalaciones: autoliquidación de tasa
+32|Licencias urbanísticas: Autoliquidación de la tasa por tramitación de licencia y control urbanístico
+33|Plusvalía - Comunicación de transmisiones
+34|Plusvalía: Autoliquidación del Impuesto sobre el incremento del valor de los terrenos
+35|Plusvalía: Como obtener información y el documento de pago
+36|Solicitud de declaración de proyecto de especial interés para el Ayuntamiento de Pozuelo de Alarcón
+37|Solicitud de fraccionamiento o aplazamiento de las deudas tributarias
+38|Tasa por aprovechamiento especial de los inmuebles de titularidad municipal
+39|Tasa por derechos de examen y por tramitación de expedientes de provisión de puestos de trabajo
+40|Tasa por estacionamiento de vehículos de tracción mecánica en determinadas zonas de las vías públicas municipales
+41|Tasa por la expedición de documentos y la tramitación de expedientes administrativos
+42|Tasa por la prestación de servicios de regulación y control de tráfico urbano tendentes a facilitar la circulación de vehículos
+43|Tasa por la prestación de servicios sanitarios
+44|Tasa por la prestación del servicio de alcantarillado
+45|Tasa por ocupación del subsuelo, suelo y vuelo de la vía pública a favor de empresas explotadoras de servicios de suministros
+46|Tasa por utilizaciones privativas y aprovechamientos especiales del dominio público local
+47|Tesorería: Designación Cuenta Bancaria (Personas físicas)
+48|Tesorería: Designación Cuenta Bancaria (Personas Jurídicas)
+49|Tramitación de factura
+50|Tribunal Económico-Administrativo Municipal de Pozuelo de Alarcón: Interposición de reclamaciones
+51|Vados: Altas y bajas en el censo de entradas de vehículos a través de las aceras o calzadas
+52|Vados: Liquidación de la tasa por la entrada de vehículos a través de las aceras o calzadas
+53|Solicitud de acceso a la información pública
+54|Arte joven: Solicitud de espacios expositivos
+55|Solicitud para contraer matrimonio civil
+56|Depósito de fianzas por la producción de residuos de construcción y demolición (RCD) en obras
+57|Licencia por tala, poda o trasplante de árboles
+58|Quema de rastrojos o restos vegetales
+59|Padrón Municipal de Habitantes: Alta y/o Cambio de domicilio
+60|Padrón Municipal de Habitantes: Modificación de datos personales
+61|Padrón Municipal. Confirmación de residencia de los extranjeros comunitarios y asimilados y extranjeros no comunitarios con permiso de larga duración
+62|Padrón Municipal. Renovación de inscripción de los extranjeros no comunitarios
+63|Padrón Municipal: Solicitud de certificado de empadronamiento individual o colectivo
+64|Reapertura de piscinas de uso colectivo
+65|Retirada de vehículos abandonados
+66|Retirada de vehículos por la grúa municipal
+67|Solicitud de carácter general
+68|Comunicación para instalar contenedor/saco en zona de estacionamiento autorizado
+69|Licencia de calas y acometidas
+70|Licencia para rebaje de acera
+71|Licencias de instalación de isletas prefabricadas
+72|Licencias por procedimiento ordinario
+73|Solicitud de vado para paso de carruajes
+74|Subvenciones Nominativas: Presentación del Proyecto
+75|Aceptación Subvención
+76|Certamen CRE@ JOVEN POZUELO 2023
+77|Convocatoria de la XXIV Edición de los Premios de Escaparatismo Navideño 2023
+78|Convocatoria para la participación en la I Edición de los Premios Pozuelo Emprende - Año 2022
+79|Convocatoria para la participación en la XIV Edición de los Premios Iniciativa - Año 2023
+80|Presentación de Cuenta Justificativa
+81|Solicitud ayudas para empresarios destinadas a paliar el riesgo de exclusión social por razón económica y potencial de desempleo producido como consecuencia de la crisis sanitaria ocasionada por el COVID-19
+82|Solicitud ayudas para la adquisición de recursos didácticos y material escolar
+83|Solicitud de ayudas a familias para campamentos y/o colonia urbanas verano 2023
+84|Solicitud de ayudas para la adaptación de viviendas de personas que tienen asignado como plan de atención un centro de día, con la finalidad de facilitar la accesibilidad y habitabilidad
+85|Solicitud de ayudas por nacimiento, adopción o acogimiento (1º trimestre 2022)
+86|Solicitud de ayudas por nacimiento, adopción o acogimiento (1º trimestre 2023)
+87|Solicitud de ayudas por nacimiento, adopción o acogimiento (2º semestre 2021)
+88|Solicitud de ayudas por nacimiento, adopción o acogimiento (2º trimestre 2022)
+89|Solicitud de ayudas por nacimiento, adopción o acogimiento (2º trimestre 2023)
+90|Solicitud de ayudas por nacimiento, adopción o acogimiento (3º trimestre 2022)
+91|Solicitud de ayudas por nacimiento, adopción o acogimiento (3º trimestre 2023)
+92|Solicitud de ayudas por nacimiento, adopción o acogimiento (4º trimestre 2022)
+93|Solicitud de subvenciones mediante concurrencia competitiva con justificación posterior
+94|Subvención complementaria obras de rehabilitación en cascos histórico y estación
+95|Subvención concurrencia competitiva de la Concejalía Deportes para la participación en competiciones oficiales, así como a la difusión y fomento de la práctica deportiva en el término municipal de Pozuelo de Alarcón, durante la temporada 2022/2023
+96|Subvenciones a proyectos educativos en centros docentes públicos y concertados. Curso 2022/2023
+97|Subvenciones destinadas a financiar los proyectos de las entidades sin ánimo de lucro (Participación Ciudadana 2023)
+98|Buzón antifraude Fondos Plan de Recuperación, transformación y resiliencia
+99|Obras: Declaración Responsable Agrupación de terrenos
+100|Obras: Declaración Responsable Cerramientos y Vallados
+101|Obras: Declaración Responsable Ejecución de Obras
+102|Obras: Declaración Responsable Inicio de Obras
+103|Obras: Declaración Responsable Instalación Placas Solares Fotovoltaicas y/o Térmicas
+104|Obras: Declaración Responsable Piscina en Residencial Unifamiliar No comunitaria
+105|Obras: Declaración Responsable Primera Ocupación y/o funcionamiento
+106|Obras: Declaración Responsable Demolición de edificaciones no Protegidas
+107|Obras: Declaración Responsable Instalación de Grúas Provisionales para la Ejecución de obras que no sobrevuelen el dominio público
+108|Obras: Solicitud de informe urbanístico
+109|Obras: Solicitud de Alineación Oficial
+110|Obras: Declaración Responsable Cambio de uso sin alterar el uso característico del edificio
+111|Obras: Licencia urbanística de parcelación, segregación, división de fincas o predios por procedimiento ordinario
+112|Obras: Licencia Urbanística de Obras por Procedimiento Ordinario
+113|Obras: Licencia urbanística de Tala, Poda y/o Trasplante asociada a una obra
+114|Actividades: Comunicación Previa de Cambio de Titularidad
+115|Actividades: Licencia Urbanística Procedimiento Ordinario de Actividad CON Obras
+116|Actividades: Licencia Urbanística Procedimiento Ordinario de Actividad SIN Obras
+117|Actividades: Declaración Responsable de Actividad CON Obras
+118|Actividades: Declaración Responsable para Actividades SIN Obras
+119|Actividades: Declaración Responsable Funcionamiento en las Tramitaciones por Procedimiento Ordinario
+120|Actividades: Declaración Responsable para Funcionamiento de Actividades incluidas en la Ley 17/1997, de Espectáculos Públicos de la Comunidad de Madrid
+121|Actividades: Declaración Responsable Autorización Terrazas en Suelo Privado
+122|Actividades: Solicitud Autorización de Terrazas en Suelo Público
+123|Actividades: Declaración Responsable Renovaciones Terrazas Suelo Público y Privado
+124|Actividades: Declaración responsable para actividades CON obras incluidas en la LEPAR
+125|Actividades: Declaración responsable para actividades SIN obras incluidas en la LEPAR
+126|Registro de solicitantes de vivienda con protección pública (Bolsa de vivienda)
+127|Sorteo viviendas en alquiler con opción a compra para jóvenes

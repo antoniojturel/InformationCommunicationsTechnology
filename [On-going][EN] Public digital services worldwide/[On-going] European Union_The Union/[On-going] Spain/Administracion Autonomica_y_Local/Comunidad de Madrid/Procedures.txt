@@ -1,0 +1,521 @@
+Number|Name|Description|Purpose|Who can request it|When can be requested it|Where can be requested it|who is the administrative resolver|Max period of time to resolve|economical fees or taxes|document requirements|Next procedures or legal proccesses
+
+
+Comunidad de Madrid
+
+1|Alegaciones al trámite de audiencia por advertencia debida a incumplimientos de información obligatoria en vehículos
+2|Consejo arbitral para el alquiler
+3|Reclamaciones relacionadas con el suministro de gases combustibles
+4|Devolución de pagos indebidos de las tasas de los títulos académicos no universitarios
+5|Reclamaciones sobre el suministro eléctrico relacionadas con el contrato de suministro a tarifa (PVPC), acceso a la red de distribución, facturas o actuaciones de la empresa distribuidora
+6|Recurso de alzada contra resoluciones que no pongan fin a la vía administrativa en materias de competencia de la Dirección General de Función Pública
+7|Recurso potestativo de reposición contra actos administrativos que pongan fin a la vía administrativa en materias de competencia de la Dirección General de Función Pública
+8|Recurso extraordinario de revisión contra actos administrativos firmes en materias de competencia de la Dirección General de Función Pública
+9|Alegaciones a la propuesta de resolución sancionador consumo
+10|Alegaciones al acuerdo de inicio sancionador consumo
+11|Cuestión de nulidad (Ley 31/2007, de 30 de octubre, sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales)
+12|Reclamación en procedimientos de adjudicación de contratos en los sectores del agua, la energía, los transportes y los postales.
+13|Cuestión de nulidad (Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre)
+14|Procedimiento sancionador en materia de vivienda protegida
+15|Alegaciones en expediente sancionador de fianzas de arrendamiento
+16|Recurso de alzada en materias de la competencia de la Dirección General de Recursos Humanos de la Consejería de Economía, Hacienda y Empleo
+17|Recurso potestativo de reposición en materias de la competencia de la Dirección General de Recursos Humanos de la Consejería de Economía, Hacienda y Empleo
+18|Recurso extraordinario de revisión en materias de la competencia de la Dirección General de Recursos Humanos de la Consejería de Economía, Hacienda y Empleo
+19|Recurso de alzada del personal de Instituciones Sanitarias del SERMAS
+20|Reclamaciones por Responsabilidad Patrimonial de la Consejería de Cultura, Turismo y Deporte
+21|Reclamaciones turísticas
+22|Recurso extraordinario de revisión contra actos administrativos firmes de la Comunidad de Madrid de la Agencia de Vivienda Social
+23|Recurso potestativo de reposición contra actos administrativos de la Comunidad de Madrid que pongan fin a la vía Administrativa de la Agencia de Vivienda Social
+24|Reclamaciones por Responsabilidad Patrimonial de la Agencia de Vivienda Social
+25|Procedimiento sancionador de turismo
+26|Alegaciones a las actas de turismo
+27|Procedimiento sancionador en materia de alimentos
+28|Procedimiento sancionador en materia de animales potencialmente peligrosos
+29|Procedimiento sancionador en materia de bienestar animal
+30|Procedimiento sancionador en materia de calidad alimentaria
+31|Procedimiento sancionador en materia de contratos de leche
+32|Procedimiento sancionador en materia de leche
+33|Procedimiento sancionador en materia de pesca
+34|Procedimiento sancionador en materia de productos fertilizantes
+35|Procedimiento sancionador en materia de protección animal
+36|Procedimiento sancionador en materia de sanidad animal
+37|Procedimiento sancionador en materia de semillas y viveros
+38|Procedimiento sancionador en materia de substractos
+39|Procedimiento sancionador en materia de vías pecuarias
+40|Revisión de Oficio
+41|Recurso de alzada contra resoluciones del órgano de la Administración de la Comunidad de Madrid que no pongan fin a la vía administrativa de la Agencia de Vivienda Social
+42|Procedimiento de reversión
+43|Denuncias de accesibilidad en edificación y espacios públicos urbanizados
+44|Arbitraje en materia de transporte
+45|Depósito de mercancías a la Junta Arbitral del Transporte de Madrid
+46|Solicitud de hojas de reclamaciones del sistema unificado de reclamaciones de consumo por parte de empresarios y profesionales
+47|Expedientes sancionadores en materia de carreteras
+48|Solicitud de informe urbanístico
+49|Arbitraje de consumo entre consumidores y empresas
+50|Reclamaciones por Responsabilidad Patrimonial del Servicio Madrileño de la Salud
+51|Denuncias y reclamaciones sobre medicamentos, productos sanitarios y cosméticos
+52|Recurso de alzada contra resoluciones del órgano de la Administración de la Comunidad de Madrid que no pongan fin a la vía administrativa de la Consejería de Economía, Hacienda y Empleo
+53|Recurso de alzada contra actos de la Consejería de Educación, Ciencia y Universidades
+54|Recurso de alzada contra actos de la Consejería de Medio Ambiente, Agricultura e Interior
+55|Recurso de alzada contra resoluciones del órgano de la Administración de la Comunidad de Madrid que no pongan fin a la vía administrativa de la Consejería de Familia, Juventud y Asuntos Sociales
+56|Recurso de alzada contra resoluciones del órgano de la Administración de la Comunidad de Madrid que no pongan fin a la vía administrativa de la Consejería de Sanidad
+57|Recurso extraordinario de revisión contra actos administrativos firmes de la Comunidad de Madrid de la Consejería de Economía, Hacienda y Empleo
+58|Recurso extraordinario de revisión contra actos de la Consejería de Educación, Ciencia y Universidades
+59|Recurso extraordinario de revisión contra actos administrativos firmes de la Comunidad de Madrid de la Consejería de Medio Ambiente, Agricultura e Interior
+60|Recurso extraordinario de revisión contra actos administrativos firmes de la Comunidad de Madrid de la Consejería de Sanidad
+61|Recurso extraordinario de revisión contra actos administrativos firmes de la Comunidad de Madrid de la Consejería de Familia, Juventud y Asuntos Sociales
+62|Recurso potestativo de reposición contra actos administrativos de la Comunidad de Madrid que pongan fin a la vía Administrativa de la Consejería de Economía, Hacienda y Empleo
+63|Recurso potestativo de reposición contra actos de la Consejería de Educación, Ciencia y Universidades
+64|Recurso potestativo de reposición contra actos administrativos de la Comunidad de Madrid que pongan fin a la vía administrativa de la Consejería de Medio Ambiente, Agricultura e Interior
+65|Recurso potestativo de reposición contra actos administrativos de la Comunidad de Madrid que pongan fin a la vía Administrativa de la Consejería de Sanidad
+66|Recurso potestativo de reposición contra actos administrativos de la Comunidad de Madrid que pongan fin a la vía Administrativa de la Consejería de Familia, Juventud y Asuntos Sociales
+67|Denuncias de consumo y fraude alimentario
+68|Procedimiento sancionador de juego
+69|Reclamaciones por averías e incidencias en viviendas de la Agencia de Vivienda Social
+70|Denuncias relativas a las Condiciones Higiénico-Sanitarias relacionadas con la Sanidad Ambiental de Productos, Establecimientos e Instalaciones
+71|Recurso de reposición contra Diligencia de embargo
+72|Reclamaciones previas al ejercicio de las acciones civiles y laborales de la Consejería de Sanidad
+73|Reclamaciones por Responsabilidad Patrimonial de la Consejería de Economía, Hacienda y Empleo
+74|Reclamaciones por Responsabilidad Patrimonial de la Consejería de Vivienda, Transportes e Infraestructuras
+75|Reclamaciones por Responsabilidad Patrimonial de la Consejería de Educación, Ciencia y Universidad
+76|Reclamaciones por Responsabilidad Patrimonial de la Consejería de Medio Ambiente, Agricultura e Interior
+77|Reclamaciones por Responsabilidad Patrimonial de la Consejería de Sanidad
+78|Reclamaciones por Responsabilidad Patrimonial de la Consejería de Familia, Juventud y Asuntos Sociales
+79|Denuncias en materia de defensa de la competencia
+80|Recurso extraordinario de revisión contra actos administrativos firmes de la Comunidad de Madrid de la Consejería de Digitalización
+81|Recurso extraordinario de revisión contra actos administrativos firmes de la Comunidad de Madrid de la Consejería de Cultura, Turismo y Deporte
+82|Recurso de alzada contra resoluciones del órgano de la Administración de la Comunidad de Madrid que no pongan fin a la vía administrativa de la Consejería de Cultura, Turismo y Deporte
+83|Recurso potestativo de reposición contra actos administrativos de la Comunidad de Madrid que pongan fin a la vía administrativa de la Consejería de Cultura, Turismo y Deporte
+84|Reclamaciones, denuncias y alegaciones en materia de consumo
+85|Reclamaciones de los usuarios de actividades de juegos y apuestas
+86|Devolución de ingresos indebidos en materia de juego
+87|Devolución de garantías en materia de juego
+88|Recurso extraordinario de revisión contra actos administrativos firmes en materia de ordenación y gestión del juego
+89|Recurso de alzada contra resoluciones y actos administrativos que no pongan fín a la vía administrativa en materia de ordenación y gestión del juego
+90|Recurso potestativo de reposición contra actos administrativos que pongan fin a la vía administrativa en materia de ordenación y gestión del juego
+91|Recurso de alzada contra resoluciones que no pongan fin a la vía administrativa de la Consejería de Presidencia, Justicia y Administración Local
+92|Recurso extraordinario de revisión contra actos administrativos firmes de la Consejería de Presidencia, Justicia y Administración Local
+93|Reclamaciones por Responsabilidad Patrimonial de la Consejería de Presidencia, Justicia y Administración Local
+94|Recurso potestativo de reposición contra actos administrativos de la Consejería de Presidencia, Justicia y Administración Local
+95|Sugerencias y quejas por servicios prestados por la Comunidad de Madrid
+96|Reclamaciones, Sugerencias y Agradecimientos en Centros Sanitarios Públicos
+97|Información y consultas sobre materias relacionadas con una instalación eléctrica
+98|Recurso de alzada en materias de la competencia de la Dirección General de Recursos Humanos de Educación
+99|Alegaciones en el procedimiento sancionador en materia de agricultura, ganadería y alimentación
+100|Alegaciones al acuerdo de inicio del procedimiento sancionador en materia de energía
+101|Alegaciones a la propuesta de resolución del procedimiento sancionador en materia de energía
+102|Solicitud de información accesible o quejas sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles
+103|Reclamación sobre requisitos de accesibilidad de los sitios web y aplicaciones para dispositivos móviles
+104|Recurso de reposición contra la Providencia de Apremio
+105|Denuncia/Solicitud de acreditación del depósito de fianzas de contratos de arrendamiento
+106|Denuncias sobre alimentos y establecimientos de alimentación
+107|Recurso especial en materia de contratación
+108|Recurso de alzada contra resoluciones del órgano de la Administración de la Comunidad de Madrid que no pongan fin a la vía administrativa de la Consejería de Digitalización
+109|Recurso potestativo de reposición contra actos administrativos de la Comunidad de Madrid que pongan fin a la vía Administrativa de la Consejería de Digitalización
+110|Recurso potestativo de reposición contra actos administrativos de la Comunidad de Madrid que pongan fin a la vía Administrativa de la Consejería de Vivienda, Transportes e Infraestructuras
+111|Recurso extraordinario de revisión contra actos administrativos firmes de la Comunidad de Madrid de la Consejería de Vivienda, Transportes e Infraestructuras
+112|Recurso de alzada contra resoluciones del órgano de la Administración de la Comunidad de Madrid que no pongan fin a la vía administrativa de la Consejería de Vivienda, Transportes e Infraestructuras
+113|Alegaciones al orden de llamamiento para la elección de destinos de la Campaña INFOMA (2023)
+
+
+Madrid (Comunidad de Madrid)
+
+1|Acreditación de árbitros de la Junta Arbitral de Consumo del Ayuntamiento de Madrid
+2|Análisis de muestras de productos alimenticios en supuesto mal estado. Muestras de servicio público
+3|Autorización para la instalación de quioscos de temporada
+4|Autorización para la instalación de terrazas de hostelería y restauración
+5|Autorizaciones para la distribución gratuita de prensa
+6|Consultas de consumo
+7|Mercadillo del Rastro de Madrid. Solicitud de autorizaciones de venta
+8|Premio Emprendedoras 2023
+9|Premio Madrid Capital de Moda 2020
+10|Premio Madrid Capital de Moda 2021
+11|Premio Madrid Capital de Moda 2022
+12|Premio Madrid Impacta 2023
+13|Premios a trabajos académicos y de investigación sobre sistemas de alimentación saludable y sostenible de la ciudad de Madrid 2023
+14|Premios Ahorro, Eficiencia Energética y Cambio Climático en Centros Educativos de Infantil y Primaria
+15|Procedimiento arbitral de consumo
+16|Reclamaciones de consumo
+17|Solicitud de adhesión a códigos de buenas prácticas empresariales
+18|Solicitud de análisis de composición y calidad de alimentos, bebidas y otros productos. Muestras analizadas de interés particular
+19|Solicitud de autorización de venta ambulante
+20|Solicitud de autorizaciones para la venta de periódicos, revistas y publicaciones (quioscos de prensa)
+21|Solicitud de hojas de reclamaciones por los establecimientos, empresarios y profesionales
+22|Solicitud y uso de las hojas de reclamaciones por parte de las personas consumidoras
+23|Subvenciones de apoyo al funcionamiento de los sectores comercial, hotelero y hostelero 2023
+24|Subvenciones para apoyar la participación de diseñadores en la Semana de la Moda de Madrid 2023
+25|Subvenciones para el fomento de la digitalización en el sector comercial 2020-2022
+26|Subvenciones para el fomento de la digitalización en el sector comercial 2023-2025
+27|Subvenciones para incentivar la ocupación de locales de los mercados municipales 2023-2025
+28|Subvenciones para la dinamización del comercio de proximidad, fomento del asociacionismo y formación en el sector comercial 2023
+29|Subvenciones para la modernización y dinamización de los mercados municipales y galerías de alimentación 2022
+30|Subvenciones para la modernización y dinamización de los mercados municipales y galerías de alimentación 2023
+31|Taxi. Sugerencias y reclamaciones no económicas
+
+
+Las Rozas de Madrid (Madrid - Comunidad de Madrid)
+
+
+1|Participación en la Elaboración de Normativa
+2|Solicitud para la Renumeración o Denominación de una Vía Pública
+3|Declaración de Alteración Catastral de un Bien Inmueble
+4|Ejercicio de Derechos ante el Registro de Asociaciones
+5|Quejas y Sugerencias
+6|Petición de Consulta Popular
+7|Solicitud de Reuniones y Entrevistas con el Personal de esta Entidad
+8|Comunicación
+9|Solicitud de Autorización
+10|Instancia General
+11|Aportación de Documentos
+12|Solicitud de Responsabilidad Patrimonial
+13|Comunicaciones sobre Requisitos de Accesibilidad
+14|Solicitudes de Información Accesible y Quejas
+15|Reclamación contra la Solicitud de Información Accesible y Queja
+16|Ejercicio de los Derechos de Rectificación, Supresión, Limitación, Portabilidad u Oposición en relación con Datos de Carácter Personal
+17|Ejercicio del Derecho de Acceso (Datos de Carácter Personal)
+18|Formulario de Contacto con el Delegado de Protección de Datos
+19|Resolución de Contrataciones Patrimoniales
+20|Solicitud de Cambio de Puesto de Trabajo: Permutas, Comisiones de Servicios,...
+21|Justificación de Subvención Concedida
+22|Solicitud de Certificado de una Subvención Concedida
+23|Solicitud de Consulta de Fondos del Archivo
+24|Planeamiento General (Modificación)
+25|Solicitud de Aprobación de Planeamiento de Desarrollo
+26|Modificación del Planeamiento de Desarrollo
+27|Solicitud de Modificación o Renuncia de una Licencia Urbanística
+28|Solicitud de Declaración de Ruina
+29|Solicitud de Licencia para la Tenencia de Animales Potencialmente Peligrosos
+30|Solicitud de Alta en los Servicios Sociales
+31|Acceso al Servicio de Teleasistencia o de Ayuda a Domicilio
+32|Ingreso en Centro de Asistencia Social
+33|Solicitud de Prestación de Servicios Sociales
+34|Solicitud de Autorización Especial para la Celebración de Eventos Especiales (Uso de Artificios Pirotécnicos)
+35|Comunicación del Cambio de Datos que figuran en el Padrón Fiscal
+36|Domiciliación de Tributos Periódicos (alta, baja y modificación)
+37|Solicitud Pre-Reserva fecha Matrimonio Civil
+38|Solicitud de Alta o cambio de domicilio en el Padrón Municipal de Habitantes
+39|Solicitud de Alta o cambio de domicilio en el Padrón Municipal de Habitantes en un domicilio en el que ya constan personas empadronadas
+40|Solicitud de Alta o cambio de domicilio en el Padrón Municipal de Habitantes de personas sin domicilio o en lugares no autorizados
+41|Solicitud de Modificación de los Datos del Padrón Municipal de Habitantes
+42|Solicitud de Baja en el Padrón Municipal de Habitantes por Cambio de Residencia de Extranjeros que se trasladan al Extranjero
+43|Solicitud de Certificado de Convivencia
+44|Solicitud de Certificado o Volante de Empadronamiento
+45|Solicitud de inscripción, renovación o baja en el Registro Municipal de Asociaciones
+46|Sugerencias y reclamaciones vecinales (OMAC)
+47|Solicitud de Acceso a la Información Pública por los Ciudadanos
+48|Solicitud de certificado de servicios prestados o de buena ejecución
+49|Solicitud de publicaciones en el tablón de anuncios municipal por parte de otras administraciones
+50|Solicitud de alta en el Registro de Parejas de Hecho
+51|Autorización especial de transportes
+52|Declaración responsable para autorizar viaje de un menor al extranjero
+53|Reclamación al Tribunal Económico Administrativo
+54|Interposición de Recurso de Reposición
+55|Solicitud de Investigación Patrimonial
+56|Solicitud de cancelación de condiciones resolutorias de viviendas públicas
+57|Solicitud de información de titularidad de parcelas de propiedad municipal
+58|Solicitud de declaración de parcela sobrante
+59|Solicitud de mutación demanial subjetiva
+60|Solicitud de enajenación de bien inmueble patrimonial
+61|Solicitud de venta directa de parcela
+62|Cuotas de comunidad de propietarios para viviendas municipales
+63|Solicitud utilización de los centros educativos públicos de infantil y primaria fuera del horario lectivo
+64|Solicitud de sala polivalente para presentación de libro de autores locales
+65|Solicitud de autorización o renovación de terrazas en suelo público
+66|Solicitud de autorización de acceso de vehículos
+67|Solicitud de reserva de espacio en vía pública
+68|Solicitud de autorización de ocupación de vía pública
+69|Solicitud de autorización de Arte en la Calle
+70|Solicitud de punto de venta ocasional
+71|Solicitud de cesión gratuita de un bien inmueble
+72|Solicitud de aceptación de cesión urbanística
+73|Solicitud de constitución de derecho de superficie sobre bienes patrimoniales
+74|Autorizaciones de aprovechamiento especial para la cesión temporal o permanente de espacios ubicados en edificios municipales adscritos a la Concejalía de Educación y Cultura
+75|Solicitud de autorización demanial
+76|Solicitud de proceso de estabilización y consolidación de empleo temporal
+77|Solicitud de participación en procesos selectivos
+78|Presentación de reclamaciones o alegaciones del proceso selectivo LI-2/2021
+79|Solicitud tareas mantenimiento por centros escolares públicos de educación infantil y primaria
+80|Solicitud de formación dentro del plan de formación del Ayuntamiento
+81|Solicitud de ayudas a la natalidad
+82|Justificación de Subvención Centros Concertados
+83|Justificación de Subvención Centros Educativos Públicos
+84|Justificación de Subvención AMPAS
+85|Solicitud de certificado o informe urbanístico
+86|Solicitud de informe de viabilidad urbanística
+87|Solicitud de certificado de obra nueva antigua
+88|Solicitud de cédula urbanística
+89|Solicitud de consulta de expediente de urbanismo
+90|Solicitud de fijación de la línea límite de edificación
+91|Solicitud de proyectos de urbanización
+92|Solicitud de alineación oficial
+93|Solicitud de dotación de servicios complementarios de urbanización
+94|Solicitud de proyectos de urbanización
+95|Licencia urbanística de piscina
+96|Solicitud de Segregación/Parcelación
+97|Solicitud de autorización de cala/obra en dominio público
+98|Licencia urbanística obras NO incluidas ley ordenación de la edificación
+99|Licencia urbanística de obras incluidas en la Ley Ordenación de la Edificación
+100|Declaración responsable de cerramientos de parcelas y solares
+101|Declaración responsable de instalación de grúa
+102|Declaración responsable para la instalación de pérgolas
+103|Declaración responsable demolición de edificaciones y/o construcciones
+104|Declaración responsable de primera ocupación
+105|Declaración responsable de primera ocupación y funcionamiento
+106|Declaración responsable de agrupación de fincas
+107|Declaración responsable genérica de obras
+108|Declaración responsable de instalación de casetas provisionales y/o de venta en suelo privado
+109|Declaración responsable terraza de uso privado
+110|Declaración responsable de instalación de placas solares
+111|Solicitud de restablecimiento de la legalidad urbanística
+112|Solicitud registro de inspección técnica de edificios (ITE)
+113|Solicitud registro de informe de evaluación de edificios (IEE)
+114|Solicitud de Licencia de Actividad
+115|Declaración responsable de actividad sin obras
+116|Declaración responsable de actividad con obras
+117|Declaración Responsable Funcionamiento de Espectáculos Públicos y Actividades Recreativas
+118|Comunicación previa de cambio de titularidad de actividades
+119|Declaración Responsable de Requisitos Sanitarios de Establecimientos Alimentarios
+120|Incidencias de control de plagas para colegios y centros municipales
+121|Solicitud de Informe de Evaluación Ambiental de Actividades
+122|Solicitud de licencia de tala, poda drástica o trasplante
+123|Identificación industrial y autorización de vertidos al sistema integral de saneamiento
+124|Solicitud de autorización para la realización de actividades y eventos en zona verde pública
+125|Inscripción en el censo municipal de animales domésticos
+126|Inscripción en el Registro de animales potencialmente peligrosos
+127|Solicitud de informe asistencial SAMER
+128|Solicitud sanitaria para apertura de piscinas y declaración responsable
+129|Renuncia de vehículo a motor
+130|Comunicación de Incidencia en la Vía Pública
+131|Corte de la Vía Pública
+132|Presentación de alegaciones por denuncia de tráfico
+133|Presentación de Datos de Identificación del Conductor de una Denuncia de Tráfico
+134|Emisión de cartas de pago por denuncias de tráfico
+135|Solicitud para enterrar (inhumación) o desenterrar (exhumación)
+136|Solicitud de Cambio de Titularidad de Unidad de Enterramiento
+137|Solicitud de renovación o prórroga de concesión de unidad de enterramiento
+138|Declaración responsable de obras en unidad de enterramiento en Cementerio Municipal
+139|Solicitud de carné de socio/a de los centros municipales de personas mayores
+140|Solicitud de certificados o informes de Servicios Sociales
+141|Solicitud de informe de Arraigo Social
+142|Solicitud de reconocimiento de la situación de dependencia
+143|Solicitud de Informe PMORVG
+144|Solicitud de tarjeta de estacionamiento para personas con movilidad reducida (PMR)
+145|Solicitud de tarjetas de armas de cuarta categoría
+146|Solicitud de supervisión Plan Autoprotección
+147|Planes Especiales de actuación ante incendios forestales
+148|Solicitud de Planes Seguridad, emergencia y evacuación en actividades temporales
+149|Solicitud de Informe por Actuación de Patrulla
+150|Solicitud de informe técnico por accidente de tráfico
+151|Plan de vacaciones seguras
+152|Solicitud de Mediación Policial para la Resolución de Conflictos
+153|Solicitud de cobertura sanitaria para eventos de riesgo previsible
+154|Solicitud de acompañamiento/presencia policial por centros escolares
+155|Presentación reclamación de consumo
+156|Solicitud hojas de reclamaciones por los establecimientos, empresarios o profesionales
+157|Presentación denuncia de consumo
+158|Solicitud de inscripción en la ruta de la tapa
+159|Solicitud de puesto de venta ambulante
+160|Solicitud de mercado vecinal de segunda mano
+161|Solicitud de formación por parte de SAMER-PC
+162|Alta como usuario de los locales de ensayo del área de juventud
+163|Alta como usuario/a del las actividades del área de juventud
+164|Inscripción a una actividad del área de Juventud
+165|Preinscripción a una actividad del área de juventud
+166|Solicitud de inscripción en taller para enfermos de Alzheimer
+167|Solicitud de inscripción en taller para personas con discapacidad
+168|Presentación carteles para el certamen “LAS ROZAS LEE”
+169|Solicitud de celebración de circos, ferias, concursos y eventos con animales calificados de compañía
+170|Comunicación de datos bancarios de terceros
+171|Solicitud de división de cuota en el Impuesto sobre Bienes e Inmuebles por cotitularidad (IBI)
+172|Declaración tributaria del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana (Plusvalía)
+173|Solicitud de Liquidación del Impuesto sobre Bienes Inmuebles (IBI)
+174|Solicitud de Liquidación del Impuesto sobre Actividades Económicas
+175|Solicitud de alteración de la titularidad del Impuesto sobre Bienes Inmuebles (IBI)
+176|Solicitud de Liquidación de otros ingresos de derecho público
+177|Solicitud de autoliquidación
+178|Bonificación Impuesto sobre Construcciones, Instalaciones y Obras para la incorporación de sistemas para el aprovechamiento térmico o electrónico de la energía solar (ICIO)
+179|Bonificación en el Impuesto sobre Construcciones, Instalaciones y Obras que favorezcan las condiciones de acceso y habitabilidad de las personas con discapacidad (ICIO)
+180|Bonificación en el ICIO para instalaciones u obras promovidas por las AA.PP o OO.AA, por las entidades sin fines lucrativos a efecto del título II de la Ley 30/1994, de fundaciones y de incentivos fiscales a la participación privada en actividades de interés general o utilidad municipal, por incurrir circunstancias sociales y culturales que justifiquen tal declaración (ICIO)
+181|Bonificación impuesto sobre bienes inmuebles por familia numerosa (IBI)
+182|Solicitud de Exención en el Impuesto sobre Vehículos de Tracción Mecánica para vehículos adaptados a personas con movilidad reducida o matriculados a nombre de personas con discapacidad para su uso exclusivo (IVTM)
+183|Solicitud de bonificación del Impuesto sobre Vehículos de Tracción Mecánica para vehículos históricos, o aquellos que tengan una antigüedad mínima de treinta años (IVTM)
+184|Solicitud de Bonificación en el Impuesto sobre Actividades Económicas para los sujetos pasivos que establezcan un plan de transporte para sus trabajadores (IAE)
+185|Solicitud de Bonificación en el Impuesto sobre Actividades Económicas para los sujetos pasivos que inicien el ejercicio de cualquier actividad empresarial (IAE)
+186|Solicitud de bonificación del Impuesto sobre Bienes Inmuebles de Naturaleza Urbana por la instalación de paneles solares (IBI)
+187|Solicitud de bonificación del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana mortis causa (IIVTNU)
+188|Solicitud de Exención en el Impuesto sobre Vehículos de Tracción Mecánica para tractores, remolques, semirremolques y maquinaria provistos de cartilla de inspección agrícola (IVTM)
+189|Solicitud de exención del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana por la constitución y transmisión de derechos de servidumbre (IIVTNU)
+190|Solicitud de Exención del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana por las transmisiones de bienes que se encuentren dentro del perímetro delimitado como Conjunto Histórico-Artístico (IIVTNU)
+191|Solicitud de Exención del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana para instituciones que tengan la calificación de benéficas o de benéfico-docentes (IIVTNU)
+192|Solicitud de Exención del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana por las transmisiones realizadas por personas físicas con ocasión de la dación en pago de la vivienda habitual (IIVTNU)
+193|Solicitud de bonificación en el Impuesto sobre Bienes Inmuebles por promoción inmobiliaria (IBI)
+194|Solicitud de bonificación IVTM para vehículos con distintivo ambiental ECO de la DGT (IVTM)
+195|Solicitud de Exención del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana a entidades sin fines lucrativos, entidades beneficiarias de mecenazgo y aquellas otras entidades recogidas en la Ley 49/2002, de 23 de diciembre, en los supuestos y condiciones que la citada Ley establece (IIVTNU)
+196|Solicitud de Exención del Impuesto sobre Actividades Económicas (IAE)
+197|Solicitud de Exención del Impuesto sobre Construcciones, Instalaciones y Obras (ICIO)
+198|Solicitud de Bonificación IVTM para vehículos con distintivo ambiental CERO EMISIONES de la DGT (IVTM)
+199|Solicitud de Certificado corriente de pago
+200|Solicitud de Devolución de Ingresos Indebidos en el Impuesto sobre Bienes e Inmuebles (IBI)
+201|Devolución de cuota por baja en actividades
+202|Devolución de Ingresos Indebidos en el Impuesto sobre Vehículos de Tracción Mecánica (IVTM)
+203|Devolución de Ingresos Indebidos en el impuesto sobre Construcciones, Instalaciones y Obras (ICIO)
+204|Devolución de Ingresos Indebidos en el Impuesto sobre Actividades Económicas (IAE)
+205|Devolución de Ingresos Indebidos en el impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana (IIVTNU)
+206|Solicitud de Devolución de Ingresos Indebidos de Tasas
+207|Devolución de precios públicos
+208|Recurso de Reposición del Impuesto sobre Bienes Inmuebles (IBI)
+209|Recurso de Reposición del Impuesto sobre Construcciones, Instalaciones y Obras (ICIO)
+210|Recurso de Reposición del Impuesto sobre Vehículos de Tracción Mecánica (IVTM)
+211|Recurso reposición del Impuesto sobre Actividades Económicas (IAE)
+212|Recurso de Reposición del Impuesto sobre Incremento de Valor de los Terrenos de Naturaleza Urbana (Plusvalía)(IIVTNU)
+213|Recurso de Reposición de Tasas
+214|Recurso de Reposición contra diligencia de embargo
+215|Recurso de Reposición contra Providencia de Apremio
+216|SEP- Solicitud sistema especial de pago
+217|Solicitud de fraccionamiento y aplazamiento de pago de deudas
+218|Solicitud de compensación de deuda
+219|Constitución garantías (fianzas en metálico y avales bancarios)
+220|Solicitud devolución de garantías Infraestructuras (aval o certificado de seguro de caución / fianzas metálicas)
+221|Solicitud devolución de garantías Medio Ambiente (aval o certificado de seguro de caución / fianzas metálicas)
+
+
+Majadahonda (Madrid - Comunidad de Madrid)
+
+1|Registro-Registro E/S
+2|Consulta de la hoja padronal del usuario
+3|Descarga volante de empadronamiento individual
+4|Solicitud del certificado de empadronamiento del usuario
+5|Alta de Habitantes
+6|Modificar Datos Habitantes de la Hoja
+7|Cambiar Domicilio de Habitantes
+
+
+Pozuelo de Alarcón (Madrid - Comunidad de Madrid)
+
+1|Animales potencialmente peligrosos
+2|Autorización para participación de animales en eventos
+3|Asociaciones: Inscripción en el Registro Municipal de Asociaciones de Pozuelo
+4|Oficina Municipal de Información al Consumidor (OMIC): Reclamaciones y quejas
+5|Convocatoria de Becas de Estudio de la Escuela Municipal de Música y Danza para el curso 2023/2024
+6|Convocatoria de subvenciones del Patronato Municipal de Cultura a entidades culturales sin ánimo de lucro
+7|Solicitud de espacios del Patronato Municipal de Cultura para realizar exposiciones.
+8|V Premio de novela histórica escritores con la historia de Pozuelo de Alarcón
+9|VIII Concurso de Pintura de Pozuelo de Alarcón
+10|Adhesión de empresas al Convenio de Colaboración INNPAR VIVERO
+11|Convocatoria para la concesión del Sello de Excelencia "Pozuelo es Calidad"
+12|Patrocinios y Colaboraciones en Proyectos de Desarrollo Empresarial y Comercio
+13|Venta Ambulante en dominio público y Mercadillo Municipal: solicitud y renovación de autorización
+14|Ayudas a la Conciliación
+15|Mayores: Servicio centro de día
+16|Mayores: Servicio de ayuda a domicilio
+17|Mayores: Servicio de teleasistencia
+18|Discapacidad: Tarjeta de estacionamiento para personas con discapacidad y movilidad o agudeza visual reducida
+19|Catastro: Alteración de bienes Inmuebles de Naturaleza Urbana
+20|Catastro: Alteración del titular catastral de Bienes Inmuebles de Naturaleza Urbana
+21|Catastro: Certificados de Datos del Padrón del Impuesto sobre Bienes Inmuebles
+22|Catastro: Obtención de certificaciones catastrales
+23|Devolución de ingresos indebidos
+24|Domiciliación bancaria (IVTM, IBI, Vados, IAE)
+25|Domicilio fiscal: cambio a efectos de notificaciones
+26|IAE: Liquidación del Impuesto sobre Actividades Económicas
+27|IBI: Liquidación del Impuesto sobre Bienes Inmuebles
+28|ICIO: Autoliquidación del Impuesto sobre Construcciones, Instalaciones y Obras
+29|ICIO: Bonificaciones
+30|IVTM: Autoliquidación del Impuesto sobre Vehículos de Tracción Mecánica
+31|Licencia de apertura y funcionamiento de actividades e instalaciones: autoliquidación de tasa
+32|Licencias urbanísticas: Autoliquidación de la tasa por tramitación de licencia y control urbanístico
+33|Plusvalía - Comunicación de transmisiones
+34|Plusvalía: Autoliquidación del Impuesto sobre el incremento del valor de los terrenos
+35|Plusvalía: Como obtener información y el documento de pago
+36|Solicitud de declaración de proyecto de especial interés para el Ayuntamiento de Pozuelo de Alarcón
+37|Solicitud de fraccionamiento o aplazamiento de las deudas tributarias
+38|Tasa por aprovechamiento especial de los inmuebles de titularidad municipal
+39|Tasa por derechos de examen y por tramitación de expedientes de provisión de puestos de trabajo
+40|Tasa por estacionamiento de vehículos de tracción mecánica en determinadas zonas de las vías públicas municipales
+41|Tasa por la expedición de documentos y la tramitación de expedientes administrativos
+42|Tasa por la prestación de servicios de regulación y control de tráfico urbano tendentes a facilitar la circulación de vehículos
+43|Tasa por la prestación de servicios sanitarios
+44|Tasa por la prestación del servicio de alcantarillado
+45|Tasa por ocupación del subsuelo, suelo y vuelo de la vía pública a favor de empresas explotadoras de servicios de suministros
+46|Tasa por utilizaciones privativas y aprovechamientos especiales del dominio público local
+47|Tesorería: Designación Cuenta Bancaria (Personas físicas)
+48|Tesorería: Designación Cuenta Bancaria (Personas Jurídicas)
+49|Tramitación de factura
+50|Tribunal Económico-Administrativo Municipal de Pozuelo de Alarcón: Interposición de reclamaciones
+51|Vados: Altas y bajas en el censo de entradas de vehículos a través de las aceras o calzadas
+52|Vados: Liquidación de la tasa por la entrada de vehículos a través de las aceras o calzadas
+53|Solicitud de acceso a la información pública
+54|Arte joven: Solicitud de espacios expositivos
+55|Solicitud para contraer matrimonio civil
+56|Depósito de fianzas por la producción de residuos de construcción y demolición (RCD) en obras
+57|Licencia por tala, poda o trasplante de árboles
+58|Quema de rastrojos o restos vegetales
+59|Padrón Municipal de Habitantes: Alta y/o Cambio de domicilio
+60|Padrón Municipal de Habitantes: Modificación de datos personales
+61|Padrón Municipal. Confirmación de residencia de los extranjeros comunitarios y asimilados y extranjeros no comunitarios con permiso de larga duración
+62|Padrón Municipal. Renovación de inscripción de los extranjeros no comunitarios
+63|Padrón Municipal: Solicitud de certificado de empadronamiento individual o colectivo
+64|Reapertura de piscinas de uso colectivo
+65|Retirada de vehículos abandonados
+66|Retirada de vehículos por la grúa municipal
+67|Solicitud de carácter general
+68|Comunicación para instalar contenedor/saco en zona de estacionamiento autorizado
+69|Licencia de calas y acometidas
+70|Licencia para rebaje de acera
+71|Licencias de instalación de isletas prefabricadas
+72|Licencias por procedimiento ordinario
+73|Solicitud de vado para paso de carruajes
+74|Subvenciones Nominativas: Presentación del Proyecto
+75|Aceptación Subvención
+76|Certamen CRE@ JOVEN POZUELO 2023
+77|Convocatoria de la XXIV Edición de los Premios de Escaparatismo Navideño 2023
+78|Convocatoria para la participación en la I Edición de los Premios Pozuelo Emprende - Año 2022
+79|Convocatoria para la participación en la XIV Edición de los Premios Iniciativa - Año 2023
+80|Presentación de Cuenta Justificativa
+81|Solicitud ayudas para empresarios destinadas a paliar el riesgo de exclusión social por razón económica y potencial de desempleo producido como consecuencia de la crisis sanitaria ocasionada por el COVID-19
+82|Solicitud ayudas para la adquisición de recursos didácticos y material escolar
+83|Solicitud de ayudas a familias para campamentos y/o colonia urbanas verano 2023
+84|Solicitud de ayudas para la adaptación de viviendas de personas que tienen asignado como plan de atención un centro de día, con la finalidad de facilitar la accesibilidad y habitabilidad
+85|Solicitud de ayudas por nacimiento, adopción o acogimiento (1º trimestre 2022)
+86|Solicitud de ayudas por nacimiento, adopción o acogimiento (1º trimestre 2023)
+87|Solicitud de ayudas por nacimiento, adopción o acogimiento (2º semestre 2021)
+88|Solicitud de ayudas por nacimiento, adopción o acogimiento (2º trimestre 2022)
+89|Solicitud de ayudas por nacimiento, adopción o acogimiento (2º trimestre 2023)
+90|Solicitud de ayudas por nacimiento, adopción o acogimiento (3º trimestre 2022)
+91|Solicitud de ayudas por nacimiento, adopción o acogimiento (3º trimestre 2023)
+92|Solicitud de ayudas por nacimiento, adopción o acogimiento (4º trimestre 2022)
+93|Solicitud de subvenciones mediante concurrencia competitiva con justificación posterior
+94|Subvención complementaria obras de rehabilitación en cascos histórico y estación
+95|Subvención concurrencia competitiva de la Concejalía Deportes para la participación en competiciones oficiales, así como a la difusión y fomento de la práctica deportiva en el término municipal de Pozuelo de Alarcón, durante la temporada 2022/2023
+96|Subvenciones a proyectos educativos en centros docentes públicos y concertados. Curso 2022/2023
+97|Subvenciones destinadas a financiar los proyectos de las entidades sin ánimo de lucro (Participación Ciudadana 2023)
+98|Buzón antifraude Fondos Plan de Recuperación, transformación y resiliencia
+99|Obras: Declaración Responsable Agrupación de terrenos
+100|Obras: Declaración Responsable Cerramientos y Vallados
+101|Obras: Declaración Responsable Ejecución de Obras
+102|Obras: Declaración Responsable Inicio de Obras
+103|Obras: Declaración Responsable Instalación Placas Solares Fotovoltaicas y/o Térmicas
+104|Obras: Declaración Responsable Piscina en Residencial Unifamiliar No comunitaria
+105|Obras: Declaración Responsable Primera Ocupación y/o funcionamiento
+106|Obras: Declaración Responsable Demolición de edificaciones no Protegidas
+107|Obras: Declaración Responsable Instalación de Grúas Provisionales para la Ejecución de obras que no sobrevuelen el dominio público
+108|Obras: Solicitud de informe urbanístico
+109|Obras: Solicitud de Alineación Oficial
+110|Obras: Declaración Responsable Cambio de uso sin alterar el uso característico del edificio
+111|Obras: Licencia urbanística de parcelación, segregación, división de fincas o predios por procedimiento ordinario
+112|Obras: Licencia Urbanística de Obras por Procedimiento Ordinario
+113|Obras: Licencia urbanística de Tala, Poda y/o Trasplante asociada a una obra
+114|Actividades: Comunicación Previa de Cambio de Titularidad
+115|Actividades: Licencia Urbanística Procedimiento Ordinario de Actividad CON Obras
+116|Actividades: Licencia Urbanística Procedimiento Ordinario de Actividad SIN Obras
+117|Actividades: Declaración Responsable de Actividad CON Obras
+118|Actividades: Declaración Responsable para Actividades SIN Obras
+119|Actividades: Declaración Responsable Funcionamiento en las Tramitaciones por Procedimiento Ordinario
+120|Actividades: Declaración Responsable para Funcionamiento de Actividades incluidas en la Ley 17/1997, de Espectáculos Públicos de la Comunidad de Madrid
+121|Actividades: Declaración Responsable Autorización Terrazas en Suelo Privado
+122|Actividades: Solicitud Autorización de Terrazas en Suelo Público
+123|Actividades: Declaración Responsable Renovaciones Terrazas Suelo Público y Privado
+124|Actividades: Declaración responsable para actividades CON obras incluidas en la LEPAR
+125|Actividades: Declaración responsable para actividades SIN obras incluidas en la LEPAR
+126|Registro de solicitantes de vivienda con protección pública (Bolsa de vivienda)
+127|Sorteo viviendas en alquiler con opción a compra para jóvenes

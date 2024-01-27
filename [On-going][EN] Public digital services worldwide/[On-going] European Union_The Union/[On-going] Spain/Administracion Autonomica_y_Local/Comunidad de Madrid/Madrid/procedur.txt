@@ -1,0 +1,34 @@
+Number|Name|Description|Purpose|Who can request it|When can be requested it|Where can be requested it|who is the administrative resolver|Max period of time to resolve|economical fees or taxes|document requirements|Next procedures or legal proccesses
+
+
+1|Acreditación de árbitros de la Junta Arbitral de Consumo del Ayuntamiento de Madrid
+2|Análisis de muestras de productos alimenticios en supuesto mal estado. Muestras de servicio público
+3|Autorización para la instalación de quioscos de temporada
+4|Autorización para la instalación de terrazas de hostelería y restauración
+5|Autorizaciones para la distribución gratuita de prensa
+6|Consultas de consumo
+7|Mercadillo del Rastro de Madrid. Solicitud de autorizaciones de venta
+8|Premio Emprendedoras 2023
+9|Premio Madrid Capital de Moda 2020
+10|Premio Madrid Capital de Moda 2021
+11|Premio Madrid Capital de Moda 2022
+12|Premio Madrid Impacta 2023
+13|Premios a trabajos académicos y de investigación sobre sistemas de alimentación saludable y sostenible de la ciudad de Madrid 2023
+14|Premios Ahorro, Eficiencia Energética y Cambio Climático en Centros Educativos de Infantil y Primaria
+15|Procedimiento arbitral de consumo
+16|Reclamaciones de consumo
+17|Solicitud de adhesión a códigos de buenas prácticas empresariales
+18|Solicitud de análisis de composición y calidad de alimentos, bebidas y otros productos. Muestras analizadas de interés particular
+19|Solicitud de autorización de venta ambulante
+20|Solicitud de autorizaciones para la venta de periódicos, revistas y publicaciones (quioscos de prensa)
+21|Solicitud de hojas de reclamaciones por los establecimientos, empresarios y profesionales
+22|Solicitud y uso de las hojas de reclamaciones por parte de las personas consumidoras
+23|Subvenciones de apoyo al funcionamiento de los sectores comercial, hotelero y hostelero 2023
+24|Subvenciones para apoyar la participación de diseñadores en la Semana de la Moda de Madrid 2023
+25|Subvenciones para el fomento de la digitalización en el sector comercial 2020-2022
+26|Subvenciones para el fomento de la digitalización en el sector comercial 2023-2025
+27|Subvenciones para incentivar la ocupación de locales de los mercados municipales 2023-2025
+28|Subvenciones para la dinamización del comercio de proximidad, fomento del asociacionismo y formación en el sector comercial 2023
+29|Subvenciones para la modernización y dinamización de los mercados municipales y galerías de alimentación 2022
+30|Subvenciones para la modernización y dinamización de los mercados municipales y galerías de alimentación 2023
+31|Taxi. Sugerencias y reclamaciones no económicas

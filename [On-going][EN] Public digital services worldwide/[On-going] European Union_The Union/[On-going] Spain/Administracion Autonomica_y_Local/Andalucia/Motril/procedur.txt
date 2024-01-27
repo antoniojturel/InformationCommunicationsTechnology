@@ -1,0 +1,394 @@
+Number|Name|Description|Purpose|Who can request it|When can be requested it|Where can be requested it|who is the administrative resolver|Max period of time to resolve|economical fees or taxes|document requirements|Next procedures or legal proccesses
+
+Andalucia
+
+Granada
+
+Motril (Granada - Andalucia)
+
+1|Abono de complemento de productividad
+2|Aceptación herencia o donación
+3|Actuaciones de Interés Público
+4|Actuaciones en directo de pequeño formato y música
+5|Actuaciones Previas (Quejas Medio Ambiente Urbano)
+6|Actuaciones Previas Medio Ambiente Rural y solares
+7|Adquisición onerosa de bienes y derechos
+8|Adscripción provisional a puesto de trabajo
+9|Alegaciones expedientes administrativos
+10|Alta en el Registro Municipal de Asociaciones
+11|Alta o cambio domicilio en Padrón Municipal
+12|Alta por nacimiento en Padrón Municipal
+13|Anticipo de nómina
+14|Aplazamiento deudas tributarias
+15|Aportación de cuenta bancaria para pago a su favor
+16|Aportación de documentación
+17|Aprobacion Planes Parciales
+18|Aprobación Convenio
+19|Aprobación Convenio (Anejos)
+20|Aprobación Convenio (Comercio)
+21|Aprobación Convenio (Cultura)
+22|Aprobación Convenio (Deportes)
+23|Aprobación Convenio (Formación y Empleo)
+24|Aprobación Convenio (Juventud)
+25|Aprobación Convenio (Medio Ambiente)
+26|Aprobación Convenio (Servicios Sociales)
+27|Aprobación Convenios urbanísticos
+28|Aprobación de gastos
+29|Aprobación de otros gastos sin factura
+30|Aprobación de proyectos de descontaminación
+31|Aprobación Proyectos de Urbanización
+32|Arrendamiento bienes patrimoniales a terceros
+33|Arrendamiento de bienes (Ayto arrendatario)
+34|Asesoramiento jurídico
+35|Asistencia a acciones formativas
+36|Asuntos propios sin remuneración
+37|Autorizaciones Ambientales
+38|Autorización cesión equipamiento para eventos (Deportes)
+39|Autorización cesión equipamiento para eventos (Mujer)
+40|Autorización Condiciones Específicas Admisión
+41|Autorización de ocupación de espacio público y/o actividades sin ánimo de lucro en Parques y Jardines
+42|Autorización de prueba deportiva espacio público
+43|Autorización eventos ocasionales en playas
+44|Autorización Ferias de Comercio
+45|Autorización instalaciones de temporada en playas
+46|Autorización lanzamiento artefactos pirotécnicos
+47|Autorización ocupación dominio público
+48|Autorización realización Simulacros
+49|Autorización Sustitucion del vehículo taxi
+50|Autorización Tratamiento Fitosanitario
+51|Autorización tren turístico.
+52|Autorización uso edificios/espacios públicos
+53|Autorización uso instalación deportiva para evento
+54|Autorización uso instalación deportiva temporada
+55|Autorización utilización Casa de la Igualdad
+56|Ayudas económicas a negocios de Motril COVID-19
+57|Ayudas Económico-Familiares
+58|Baja en el Registro Municipal de Asociaciones
+59|Baja por defunción Padrón Municipal
+60|Bonificacion de la Basura Doméstica
+61|Bonificacion del Basura Industrial
+62|Bonificacion del IBI (Familia Numerosa)
+63|Bonificacion del IBI (Promoción Inmobiliaria)
+64|Bonificacion del IBI (Viviendas Protección Oficial
+65|Bonificacion del ICIO (Especial Interes Municipal)
+66|Bonificacion del IIVTNU
+67|Bonificacion del IVTM (Vehículos históricos)
+68|Bonificación del IBI (Especial Interés Municipal)
+69|Bonificación del ICIO (Instalación Placas Solares Autoconsumo)
+70|Bonificación del ICIO (Obras uso exclusivo Personas con Discapacidad)
+71|Bonificación del IVTM (Vehículos Ecológicos - Híbridos - Eléctricos)
+72|Calificación Vivienda V.P.O
+73|Cambio de funciones por motivo de salud
+74|Cesión Gratuita Bienes Patrimoniales
+75|Circulación de vehículos especiales
+76|Comisión de servicios
+77|Comodato (Ayuntamiento comodante)
+78|Comodato (Ayuntamiento comodatario)
+79|Comunicación Previa - Cambio Titularidad Licencia de Apertura
+80|Comunicación Previa en materia de urbanismo
+81|Concesión bienes de dominio público
+82|Concesión de Honores y Distinciones
+83|Concurso cesión vivienda municipal
+84|Concurso de provisión de puestos de trabajo
+85|Concurso ordinario de méritos (habilitados)
+86|Concursos y certámenes (Cultura)
+87|Concursos y certámenes (Fiestas)
+88|Confirmación de residencia extranjeros
+89|Consentimiento de reutilización de documentos
+90|Constitución/adhesión organos o entidades
+91|Consultas
+92|Convenio de colaboración para realizar prácticas
+93|Convenios de Colaboración (Educación)
+94|Convocatoria de asamblea general o sectorial
+95|Cortes y ocupación de la vía pública
+96|Cuenta corriente del contribuyente
+97|Declaraciones alta/baja/modif Basura Doméstica
+98|Declaraciones alta/baja/modif Basura Industrial
+99|Declaraciones alta/baja/modif Vados, Reservas
+100|Declaraciones no incremento valor
+101|Declaraciones tributarias (genérico)
+102|Declaración de innecesaridad de licencia
+103|Declaración de bienes no utilizables
+104|Declaración de Innecesariedad en proindiviso
+105|Declaración de nulidad de tributos
+106|Declaración de Plusvalías en Registro No Oficial
+107|Declaración de Plusvalías en Registro Oficial
+108|Declaración de Suelo Contamimado
+109|Declaración Desclasificación Suelo Contaminado
+110|Declaración Responsable (Aperturas)
+111|Declaración responsable de ocupación o utilización
+112|Declaración Responsable para Ejecución de Obras
+113|Descuento horario por acciones formativas
+114|Devoluciones de fianzas
+115|Devolución de ingresos indebidos
+116|Devolución de la tasa de basura
+117|Devolución del IVTM por baja definitiva vehículo
+118|Devolución Objetos Perdidos
+119|Dispensa de prestación de servicios por elecciones
+120|Documentación e Información Servicios Igualdad
+121|Documentos Dirigidos a grupos municipales
+122|Domiciliación de recibos
+123|Ejecución de Garantía de Urbanízación
+124|Ejer. Derecho rectif. Cancelación y oposición de d
+125|Ejercicio de derecho de acceso a ficheros
+126|Elecciones a Delegados y Juntas de Personal
+127|Enajenación bienes y derechos patrim
+128|Enajenación de bienes no utilizables
+129|Enajenación Parcelas sobrantes
+130|Endosos de Créditos y Facturas
+131|Entierros beneficiencia
+132|Espectáculos Públicos y Actividades Recreativas Ocasionales y Extraordinarios
+133|Estacionamiento Residentes en Zona Azul
+134|Estudio situaciones de acoso laboral
+135|Estudios de Detalle
+136|Evaluacion de riesgos equipos de trabajo
+137|Evaluación de centro de trabajo
+138|Excedencia por agrupación familiar
+139|Excedencia por cuidado de familiar
+140|Excedencia por interés particular
+141|Excedencia por razón de violencia terrorista.
+142|Excedencia por violencia de género
+143|Excedencia voluntaria incentivada
+144|Exencion IBI (Entidades sin fines lucrativos)
+145|Exencion IVTM (Personas con discapacidad)
+146|Exencion IVTM (Vehículos Agrícolas)
+147|Exhumación y reducción de restos
+148|Expectativa de destino
+149|Expediente de deslinde administrativo de bienes
+150|Expediente de enterramiento (inhumaciones)
+151|Expediente de Territorio
+152|Expediente para Cancelación de Cargas Urbanísticas
+153|Expedientes de actuaciones Red Centros de Servicios Sociales
+154|Expedientes de Educación
+155|Expedientes de Entidades de Gestión Urbanística
+156|Expedientes de expropiación de bienes municipales
+157|Expedientes de movilidad
+158|Expedientes de transporte
+159|Expedientes Delimitación Unidades de Ejecución
+160|Expedientes judiciales
+161|Expropiación Urbanistica (tasacion conjunta)
+162|Extinción de contrato de trabajo
+163|Fraccionamiento deudas tributarias
+164|Gestión de Avisos
+165|Incidencias del Servicio de Mantenimiento
+166|Informe de adecuación de vivienda.
+167|Informe de arraigo social
+168|Informe de Evaluación de Edificios
+169|Inhabilitación para cargo público
+170|Inscripción de participación
+171|Inscripción Parejas de Hecho
+172|Jubilación
+173|Libre designación
+174|Licencia animales potencialmente peligrosos
+175|Licencia de Apertura
+176|Licencia de División Horizontal preexistentes
+177|Licencia de obra mayor
+178|Licencia de Ocupación Terraza de Veladores
+179|Licencia para la Declaración de Obra Nueva
+180|Licencias de Segregación y/o Agrupación
+181|Licencias Provisionales de Uso
+182|Licitaciones servicios Centros de Mayores
+183|Matanzas domiciliarias
+184|Modificaciones e Innovaciones del PGOU
+185|Modificación de Datos Registro de Asociaciones
+186|Modificación de la RPT - plantilla
+187|Modificación de Sistema de Actuación Urbanística
+188|Movilidad por violencia de género o terrorista
+189|Movilidad, traslado, limitación o remoción
+190|Mutación demanial
+191|Obras menores sujetas a comunicación previa
+192|Obras menores sujetas a declaración responsable
+193|Ocupación de vía pública con atracciones de feria (Anejos)
+194|Ocupación de vía pública con atracciones de feria (Participación Ciudadana)
+195|Ocupación de vía pública con puestos de venta
+196|Otras operaciones no presupuestarias
+197|Participación como entidad colaboradora en la recaudación
+198|Permiso hora de ausencia por lactancia
+199|Permiso por adopción o acogimiento internacional
+200|Planes de Sectorización
+201|Planes Especiales
+202|Prestaciones Sociales
+203|Procedimiento de Responsabiliad Patrimonial
+204|Procedimiento devolución entradas
+205|Procedimiento Sancionador Consumo
+206|Procedimiento Sancionador en materia de Salud
+207|Procedimiento Sancionador Mercados
+208|Procedimiento Sancionador Venta Ambulante
+209|Programa "Motril ante las Drogas"
+210|Programa de ayuda de alimentos.
+211|Programas de Atención Psicológica del IAM
+212|Prolongación de la permanencia en servicio activo
+213|Proyectos de Reparcelación
+214|Prácticas externas extracurriculares
+215|Prórroga de la declaracion IIVTNU
+216|Prórroga en el servicio activo policía
+217|Punto de Intercambio Familiar
+218|Pérdida de nacionalidad por funcionario
+219|Reclamación - petición genérica (Departamento de Recursos Humanos)
+220|Reclamación – petición genérica (Servicio de Prevención Propio)
+221|Reconocimiento de A.F.O. en SNU
+222|Reconocimiento de compatibilidad
+223|Reconocimiento de grado personal
+224|Reconocimiento de servicios previos
+225|Rectificación errores materiales tributos
+226|Recurso de reposición actos gestión tributaria
+227|Red de Espacios Libres de Violencia
+228|Reducción de jornada hijo con cáncer o enf. Grave
+229|Reducción de jornada por interés particular
+230|Reducción de jornada por razones de guarda legal
+231|Registro de Bienes e Intereses de Concejales
+232|Registro de Demandantes de Vivienda Protegida
+233|Regulación General del Servicio de Taxi.
+234|Rehabilitación de la condición de funcionario
+235|Reingreso al servicio activo
+236|Renovación inscripción extranjeros no U. Europea
+237|Renovación Permiso Conductor de Taxis
+238|Renuncia Concesión administrativa Mercado Mun
+239|Renuncia a la condición de funcionario
+240|Renuncia Vehículos Abandonados en la vía pública
+241|Revisión de disposiciones y actos nulos
+242|Revocación de actos de aplicación de tributos
+243|Ruina Urbanística
+244|Segunda actividad policía aptitudes psicofísicas
+245|Segunda actividad policía por embarazo
+246|Servicio ATENPRO
+247|Servicio de Atención Psicológica
+248|Servicio de Información y Asesoramiento
+249|Servicio en otras administraciones públicas
+250|Servicios especiales
+251|Señalización viaria y badenes
+252|Solicitud acceso documentación e información
+253|Solicitud acceso información y documentos
+254|Solicitud actividades de ludotecas
+255|Solicitud actividades juveniles
+256|Solicitud atención psicológica
+257|Solicitud autorización transporte escolar
+258|Solicitud bonificación tasa de Deportes
+259|Solicitud C. E. I. "Lunera Tropical"
+260|Solicitud Carné Red de Bibliotecas Públicas
+261|Solicitud cartas de pago
+262|Solicitud certificaciones Tesorería
+263|Solicitud Certificados Servicios Igualdad
+264|Solicitud colaboración Anejos
+265|Solicitud Colaboración Área de Comercio
+266|Solicitud de acceso a empleo público
+267|Solicitud de Alta de la Reserva de Espacio para Obra
+268|Solicitud de Alta de reserva de espacio ante Centros (sanitarios, colegios, entidades diversas, etc)
+269|Solicitud de Alta de reserva de espacio para carga/descarga
+270|Solicitud de Alta de reserva de espacio para el estacionamiento de vehículos para personas con disc.
+271|Solicitud de Alta de reserva de espacio para vados o badenes
+272|Solicitud de Alta de reserva de espacio para vados o badenes
+273|Solicitud de Atestados
+274|Solicitud de Aut. de comercio ambulante
+275|Solicitud de Autorización de Fiestas en Barrios
+276|Solicitud de Autorización para celebración de actos
+277|Solicitud de baja extranjeros padrón municipal
+278|Solicitud de Cambio de titularidad de badenes y reservas de espacio
+279|Solicitud de certificado (Cultura)
+280|Solicitud de certificado (Educación)
+281|Solicitud de certificado (Estadística)
+282|Solicitud de certificado (Formación y empleo)
+283|Solicitud de certificado (Inmigración)
+284|Solicitud de certificado (Intervención)
+285|Solicitud de certificado (Medio ambiente)
+286|Solicitud de certificado (Personal)
+287|Solicitud de certificado (Turismo)
+288|Solicitud de certificado (Urbanismo)
+289|Solicitud de Certificado de Bienes (Patrimonio)
+290|Solicitud de certificado de decretos y acuerdos (Secretaría)
+291|Solicitud de certificado de empadronamiento
+292|Solicitud de certificado de Registro (Secretaría)
+293|Solicitud de certificado de tablón de anuncio (Secretaría)
+294|Solicitud de certificado o informe urbanístico
+295|Solicitud de certificado tributario
+296|Solicitud de Cita previa
+297|Solicitud de colaboración
+298|Solicitud de Colaboración
+299|Solicitud de Colaboración en Actividades y Eventos
+300|Solicitud de compensación de deudas
+301|Solicitud de consulta archivo
+302|Solicitud de consulta urbanística
+303|Solicitud de consulta urbanística
+304|Solicitud de devoluciones de tasas deportivas
+305|Solicitud de devolución de fianza
+306|Solicitud de documentación
+307|Solicitud de documentación e información.
+308|Solicitud de información (Bomberos)
+309|Solicitud de información (Estadística)
+310|Solicitud de informes de exclusión social
+311|Solicitud de instalación de carpas, casetas y vehículos en Vía Pública
+312|Solicitud de instalación de Ferias
+313|Solicitud de licencia ambiental
+314|Solicitud de Licencia de Parcelación
+315|Solicitud de Licencia de Segregación
+316|Solicitud de ludoteca
+317|Solicitud de moragas/barbacoas en la playa
+318|Solicitud de Obra de Reforma
+319|Solicitud de participación en Concurso de música
+320|Solicitud de permuta
+321|Solicitud de puesto en Mercado Municipal San Agust
+322|Solicitud de reconocimiento médico
+323|Solicitud de renuncia de la licencia concedida
+324|Solicitud de Servicio Municipal ayuda a domicilio
+325|Solicitud de socio o usuario de centro de mayores.
+326|Solicitud de traslados de restos
+327|Solicitud de Visita Charca Suarez para Grupos
+328|Solicitud de Vista de Expediente Apertura
+329|Solicitud Diploma/certificado cursos de formación
+330|Solicitud evaluacion riesgos puesto de trabajo
+331|Solicitud genérica
+332|Solicitud Inclusión a la Base de datos del Área
+333|Solicitud incorporación Consejo Municipal de Mujer
+334|Solicitud Locales de Ensayo
+335|Solicitud material promocional
+336|Solicitud miembro Mesa de Coordinación para la Atención a las Familias de Motril
+337|Solicitud modificación datos en Padrón Municipal
+338|Solicitud para elegir el medio preferente de notificación
+339|Solicitud para formar parte del CMPM
+340|Solicitud para formar parte del Consejo Municipal de Personas con Discapacidad
+341|Solicitud para subvenciones nominativas (Alcaldía)
+342|Solicitud para subvenciones nominativas (Anejos)
+343|Solicitud para subvenciones nominativas (Comercio)
+344|Solicitud para subvenciones nominativas (Educación)
+345|Solicitud para subvenciones nominativas (Fiestas)
+346|Solicitud para subvenciones nominativas (Servicios Sociales)
+347|Solicitud para subvenciones nominativas (Turismo)
+348|Solicitud participación Actividades
+349|Solicitud participación curso de formación
+350|Solicitud participación en actividades de Anejos
+351|Solicitud participación en actividades de Comercio
+352|Solicitud Permiso de Conductor de Taxis
+353|Solicitud préstamo instrumentos musicales
+354|Solicitud Servicio Asesoramiento Jurídico
+355|Solicitud talleres de adultos
+356|Solicitud talleres de mayores
+357|Solicitud tarjeta azul.
+358|Solicitud Tarjeta de Armas
+359|Solicitud Trabajos en beneficio de la comunidad
+360|Solicitud Transmisión Licencias de Taxis
+361|Solicitud uso bienes municipales autoescuelas
+362|Solicitud Utilización Observatorio Científico
+363|Solicitud volante de empadronamiento
+364|Solicitud/Autorización uso Edificios publicos
+365|Solicitudes de Alineación
+366|Solicitudes, Sugerencias y Reclamaciones (Deportes)
+367|Solictud celebración Matrimonio civil
+368|Solictud formación prevención riesgos laborales
+369|Suspensión de contrato de trabajo
+370|Tablón de Edictos
+371|Tarjeta de estacionamiento y circulación especial.
+372|Teleasistencia Domiciliaria
+373|Trasmisión de concesión ocupación Mercado Abastos
+374|Utilización de edificios municipales (Casa Consistorial)
+375|Utilización de edificios municipales (Casa de la Condesa Torre-Isabel)
+376|Utilización de edificios municipales (Casa de la Palma)
+377|Utilización de edificios municipales (Caseta Municipal del Recinto Ferial)
+378|Utilización de edificios municipales (Centro de Desarrollo Turístico)
+379|Utilización de edificios municipales (Centro Intercultural)
+380|Utilización de edificios municipales (Centro Joven)
+381|Utilización de edificios municipales (Genérica)
+382|Utilización de edificios municipales (La Matraquilla)
+383|Utilización de edificios municipales (Nave de los arcos de la Fabriquilla)
+384|Utilización de edificios municipales (Plaza de Toros)
+385|Utilización de edificios municipales (Teatro Municipal Calderón de la Barca)
+386|Órdenes de Ejecución

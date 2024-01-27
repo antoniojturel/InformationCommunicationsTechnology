@@ -1,0 +1,223 @@
+Number|Name|Description|Purpose|Who can request it|When can be requested it|Where can be requested it|who is the administrative resolver|Max period of time to resolve|economical fees or taxes|document requirements|Next procedures or legal proccesses
+
+1|Participación en la Elaboración de Normativa
+2|Solicitud para la Renumeración o Denominación de una Vía Pública
+3|Declaración de Alteración Catastral de un Bien Inmueble
+4|Ejercicio de Derechos ante el Registro de Asociaciones
+5|Quejas y Sugerencias
+6|Petición de Consulta Popular
+7|Solicitud de Reuniones y Entrevistas con el Personal de esta Entidad
+8|Comunicación
+9|Solicitud de Autorización
+10|Instancia General
+11|Aportación de Documentos
+12|Solicitud de Responsabilidad Patrimonial
+13|Comunicaciones sobre Requisitos de Accesibilidad
+14|Solicitudes de Información Accesible y Quejas
+15|Reclamación contra la Solicitud de Información Accesible y Queja
+16|Ejercicio de los Derechos de Rectificación, Supresión, Limitación, Portabilidad u Oposición en relación con Datos de Carácter Personal
+17|Ejercicio del Derecho de Acceso (Datos de Carácter Personal)
+18|Formulario de Contacto con el Delegado de Protección de Datos
+19|Resolución de Contrataciones Patrimoniales
+20|Solicitud de Cambio de Puesto de Trabajo: Permutas, Comisiones de Servicios,...
+21|Justificación de Subvención Concedida
+22|Solicitud de Certificado de una Subvención Concedida
+23|Solicitud de Consulta de Fondos del Archivo
+24|Planeamiento General (Modificación)
+25|Solicitud de Aprobación de Planeamiento de Desarrollo
+26|Modificación del Planeamiento de Desarrollo
+27|Solicitud de Modificación o Renuncia de una Licencia Urbanística
+28|Solicitud de Declaración de Ruina
+29|Solicitud de Licencia para la Tenencia de Animales Potencialmente Peligrosos
+30|Solicitud de Alta en los Servicios Sociales
+31|Acceso al Servicio de Teleasistencia o de Ayuda a Domicilio
+32|Ingreso en Centro de Asistencia Social
+33|Solicitud de Prestación de Servicios Sociales
+34|Solicitud de Autorización Especial para la Celebración de Eventos Especiales (Uso de Artificios Pirotécnicos)
+35|Comunicación del Cambio de Datos que figuran en el Padrón Fiscal
+36|Domiciliación de Tributos Periódicos (alta, baja y modificación)
+37|Solicitud Pre-Reserva fecha Matrimonio Civil
+38|Solicitud de Alta o cambio de domicilio en el Padrón Municipal de Habitantes
+39|Solicitud de Alta o cambio de domicilio en el Padrón Municipal de Habitantes en un domicilio en el que ya constan personas empadronadas
+40|Solicitud de Alta o cambio de domicilio en el Padrón Municipal de Habitantes de personas sin domicilio o en lugares no autorizados
+41|Solicitud de Modificación de los Datos del Padrón Municipal de Habitantes
+42|Solicitud de Baja en el Padrón Municipal de Habitantes por Cambio de Residencia de Extranjeros que se trasladan al Extranjero
+43|Solicitud de Certificado de Convivencia
+44|Solicitud de Certificado o Volante de Empadronamiento
+45|Solicitud de inscripción, renovación o baja en el Registro Municipal de Asociaciones
+46|Sugerencias y reclamaciones vecinales (OMAC)
+47|Solicitud de Acceso a la Información Pública por los Ciudadanos
+48|Solicitud de certificado de servicios prestados o de buena ejecución
+49|Solicitud de publicaciones en el tablón de anuncios municipal por parte de otras administraciones
+50|Solicitud de alta en el Registro de Parejas de Hecho
+51|Autorización especial de transportes
+52|Declaración responsable para autorizar viaje de un menor al extranjero
+53|Reclamación al Tribunal Económico Administrativo
+54|Interposición de Recurso de Reposición
+55|Solicitud de Investigación Patrimonial
+56|Solicitud de cancelación de condiciones resolutorias de viviendas públicas
+57|Solicitud de información de titularidad de parcelas de propiedad municipal
+58|Solicitud de declaración de parcela sobrante
+59|Solicitud de mutación demanial subjetiva
+60|Solicitud de enajenación de bien inmueble patrimonial
+61|Solicitud de venta directa de parcela
+62|Cuotas de comunidad de propietarios para viviendas municipales
+63|Solicitud utilización de los centros educativos públicos de infantil y primaria fuera del horario lectivo
+64|Solicitud de sala polivalente para presentación de libro de autores locales
+65|Solicitud de autorización o renovación de terrazas en suelo público
+66|Solicitud de autorización de acceso de vehículos
+67|Solicitud de reserva de espacio en vía pública
+68|Solicitud de autorización de ocupación de vía pública
+69|Solicitud de autorización de Arte en la Calle
+70|Solicitud de punto de venta ocasional
+71|Solicitud de cesión gratuita de un bien inmueble
+72|Solicitud de aceptación de cesión urbanística
+73|Solicitud de constitución de derecho de superficie sobre bienes patrimoniales
+74|Autorizaciones de aprovechamiento especial para la cesión temporal o permanente de espacios ubicados en edificios municipales adscritos a la Concejalía de Educación y Cultura
+75|Solicitud de autorización demanial
+76|Solicitud de proceso de estabilización y consolidación de empleo temporal
+77|Solicitud de participación en procesos selectivos
+78|Presentación de reclamaciones o alegaciones del proceso selectivo LI-2/2021
+79|Solicitud tareas mantenimiento por centros escolares públicos de educación infantil y primaria
+80|Solicitud de formación dentro del plan de formación del Ayuntamiento
+81|Solicitud de ayudas a la natalidad
+82|Justificación de Subvención Centros Concertados
+83|Justificación de Subvención Centros Educativos Públicos
+84|Justificación de Subvención AMPAS
+85|Solicitud de certificado o informe urbanístico
+86|Solicitud de informe de viabilidad urbanística
+87|Solicitud de certificado de obra nueva antigua
+88|Solicitud de cédula urbanística
+89|Solicitud de consulta de expediente de urbanismo
+90|Solicitud de fijación de la línea límite de edificación
+91|Solicitud de proyectos de urbanización
+92|Solicitud de alineación oficial
+93|Solicitud de dotación de servicios complementarios de urbanización
+94|Solicitud de proyectos de urbanización
+95|Licencia urbanística de piscina
+96|Solicitud de Segregación/Parcelación
+97|Solicitud de autorización de cala/obra en dominio público
+98|Licencia urbanística obras NO incluidas ley ordenación de la edificación
+99|Licencia urbanística de obras incluidas en la Ley Ordenación de la Edificación
+100|Declaración responsable de cerramientos de parcelas y solares
+101|Declaración responsable de instalación de grúa
+102|Declaración responsable para la instalación de pérgolas
+103|Declaración responsable demolición de edificaciones y/o construcciones
+104|Declaración responsable de primera ocupación
+105|Declaración responsable de primera ocupación y funcionamiento
+106|Declaración responsable de agrupación de fincas
+107|Declaración responsable genérica de obras
+108|Declaración responsable de instalación de casetas provisionales y/o de venta en suelo privado
+109|Declaración responsable terraza de uso privado
+110|Declaración responsable de instalación de placas solares
+111|Solicitud de restablecimiento de la legalidad urbanística
+112|Solicitud registro de inspección técnica de edificios (ITE)
+113|Solicitud registro de informe de evaluación de edificios (IEE)
+114|Solicitud de Licencia de Actividad
+115|Declaración responsable de actividad sin obras
+116|Declaración responsable de actividad con obras
+117|Declaración Responsable Funcionamiento de Espectáculos Públicos y Actividades Recreativas
+118|Comunicación previa de cambio de titularidad de actividades
+119|Declaración Responsable de Requisitos Sanitarios de Establecimientos Alimentarios
+120|Incidencias de control de plagas para colegios y centros municipales
+121|Solicitud de Informe de Evaluación Ambiental de Actividades
+122|Solicitud de licencia de tala, poda drástica o trasplante
+123|Identificación industrial y autorización de vertidos al sistema integral de saneamiento
+124|Solicitud de autorización para la realización de actividades y eventos en zona verde pública
+125|Inscripción en el censo municipal de animales domésticos
+126|Inscripción en el Registro de animales potencialmente peligrosos
+127|Solicitud de informe asistencial SAMER
+128|Solicitud sanitaria para apertura de piscinas y declaración responsable
+129|Renuncia de vehículo a motor
+130|Comunicación de Incidencia en la Vía Pública
+131|Corte de la Vía Pública
+132|Presentación de alegaciones por denuncia de tráfico
+133|Presentación de Datos de Identificación del Conductor de una Denuncia de Tráfico
+134|Emisión de cartas de pago por denuncias de tráfico
+135|Solicitud para enterrar (inhumación) o desenterrar (exhumación)
+136|Solicitud de Cambio de Titularidad de Unidad de Enterramiento
+137|Solicitud de renovación o prórroga de concesión de unidad de enterramiento
+138|Declaración responsable de obras en unidad de enterramiento en Cementerio Municipal
+139|Solicitud de carné de socio/a de los centros municipales de personas mayores
+140|Solicitud de certificados o informes de Servicios Sociales
+141|Solicitud de informe de Arraigo Social
+142|Solicitud de reconocimiento de la situación de dependencia
+143|Solicitud de Informe PMORVG
+144|Solicitud de tarjeta de estacionamiento para personas con movilidad reducida (PMR)
+145|Solicitud de tarjetas de armas de cuarta categoría
+146|Solicitud de supervisión Plan Autoprotección
+147|Planes Especiales de actuación ante incendios forestales
+148|Solicitud de Planes Seguridad, emergencia y evacuación en actividades temporales
+149|Solicitud de Informe por Actuación de Patrulla
+150|Solicitud de informe técnico por accidente de tráfico
+151|Plan de vacaciones seguras
+152|Solicitud de Mediación Policial para la Resolución de Conflictos
+153|Solicitud de cobertura sanitaria para eventos de riesgo previsible
+154|Solicitud de acompañamiento/presencia policial por centros escolares
+155|Presentación reclamación de consumo
+156|Solicitud hojas de reclamaciones por los establecimientos, empresarios o profesionales
+157|Presentación denuncia de consumo
+158|Solicitud de inscripción en la ruta de la tapa
+159|Solicitud de puesto de venta ambulante
+160|Solicitud de mercado vecinal de segunda mano
+161|Solicitud de formación por parte de SAMER-PC
+162|Alta como usuario de los locales de ensayo del área de juventud
+163|Alta como usuario/a del las actividades del área de juventud
+164|Inscripción a una actividad del área de Juventud
+165|Preinscripción a una actividad del área de juventud
+166|Solicitud de inscripción en taller para enfermos de Alzheimer
+167|Solicitud de inscripción en taller para personas con discapacidad
+168|Presentación carteles para el certamen “LAS ROZAS LEE”
+169|Solicitud de celebración de circos, ferias, concursos y eventos con animales calificados de compañía
+170|Comunicación de datos bancarios de terceros
+171|Solicitud de división de cuota en el Impuesto sobre Bienes e Inmuebles por cotitularidad (IBI)
+172|Declaración tributaria del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana (Plusvalía)
+173|Solicitud de Liquidación del Impuesto sobre Bienes Inmuebles (IBI)
+174|Solicitud de Liquidación del Impuesto sobre Actividades Económicas
+175|Solicitud de alteración de la titularidad del Impuesto sobre Bienes Inmuebles (IBI)
+176|Solicitud de Liquidación de otros ingresos de derecho público
+177|Solicitud de autoliquidación
+178|Bonificación Impuesto sobre Construcciones, Instalaciones y Obras para la incorporación de sistemas para el aprovechamiento térmico o electrónico de la energía solar (ICIO)
+179|Bonificación en el Impuesto sobre Construcciones, Instalaciones y Obras que favorezcan las condiciones de acceso y habitabilidad de las personas con discapacidad (ICIO)
+180|Bonificación en el ICIO para instalaciones u obras promovidas por las AA.PP o OO.AA, por las entidades sin fines lucrativos a efecto del título II de la Ley 30/1994, de fundaciones y de incentivos fiscales a la participación privada en actividades de interés general o utilidad municipal, por incurrir circunstancias sociales y culturales que justifiquen tal declaración (ICIO)
+181|Bonificación impuesto sobre bienes inmuebles por familia numerosa (IBI)
+182|Solicitud de Exención en el Impuesto sobre Vehículos de Tracción Mecánica para vehículos adaptados a personas con movilidad reducida o matriculados a nombre de personas con discapacidad para su uso exclusivo (IVTM)
+183|Solicitud de bonificación del Impuesto sobre Vehículos de Tracción Mecánica para vehículos históricos, o aquellos que tengan una antigüedad mínima de treinta años (IVTM)
+184|Solicitud de Bonificación en el Impuesto sobre Actividades Económicas para los sujetos pasivos que establezcan un plan de transporte para sus trabajadores (IAE)
+185|Solicitud de Bonificación en el Impuesto sobre Actividades Económicas para los sujetos pasivos que inicien el ejercicio de cualquier actividad empresarial (IAE)
+186|Solicitud de bonificación del Impuesto sobre Bienes Inmuebles de Naturaleza Urbana por la instalación de paneles solares (IBI)
+187|Solicitud de bonificación del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana mortis causa (IIVTNU)
+188|Solicitud de Exención en el Impuesto sobre Vehículos de Tracción Mecánica para tractores, remolques, semirremolques y maquinaria provistos de cartilla de inspección agrícola (IVTM)
+189|Solicitud de exención del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana por la constitución y transmisión de derechos de servidumbre (IIVTNU)
+190|Solicitud de Exención del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana por las transmisiones de bienes que se encuentren dentro del perímetro delimitado como Conjunto Histórico-Artístico (IIVTNU)
+191|Solicitud de Exención del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana para instituciones que tengan la calificación de benéficas o de benéfico-docentes (IIVTNU)
+192|Solicitud de Exención del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana por las transmisiones realizadas por personas físicas con ocasión de la dación en pago de la vivienda habitual (IIVTNU)
+193|Solicitud de bonificación en el Impuesto sobre Bienes Inmuebles por promoción inmobiliaria (IBI)
+194|Solicitud de bonificación IVTM para vehículos con distintivo ambiental ECO de la DGT (IVTM)
+195|Solicitud de Exención del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana a entidades sin fines lucrativos, entidades beneficiarias de mecenazgo y aquellas otras entidades recogidas en la Ley 49/2002, de 23 de diciembre, en los supuestos y condiciones que la citada Ley establece (IIVTNU)
+196|Solicitud de Exención del Impuesto sobre Actividades Económicas (IAE)
+197|Solicitud de Exención del Impuesto sobre Construcciones, Instalaciones y Obras (ICIO)
+198|Solicitud de Bonificación IVTM para vehículos con distintivo ambiental CERO EMISIONES de la DGT (IVTM)
+199|Solicitud de Certificado corriente de pago
+200|Solicitud de Devolución de Ingresos Indebidos en el Impuesto sobre Bienes e Inmuebles (IBI)
+201|Devolución de cuota por baja en actividades
+202|Devolución de Ingresos Indebidos en el Impuesto sobre Vehículos de Tracción Mecánica (IVTM)
+203|Devolución de Ingresos Indebidos en el impuesto sobre Construcciones, Instalaciones y Obras (ICIO)
+204|Devolución de Ingresos Indebidos en el Impuesto sobre Actividades Económicas (IAE)
+205|Devolución de Ingresos Indebidos en el impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana (IIVTNU)
+206|Solicitud de Devolución de Ingresos Indebidos de Tasas
+207|Devolución de precios públicos
+208|Recurso de Reposición del Impuesto sobre Bienes Inmuebles (IBI)
+209|Recurso de Reposición del Impuesto sobre Construcciones, Instalaciones y Obras (ICIO)
+210|Recurso de Reposición del Impuesto sobre Vehículos de Tracción Mecánica (IVTM)
+211|Recurso reposición del Impuesto sobre Actividades Económicas (IAE)
+212|Recurso de Reposición del Impuesto sobre Incremento de Valor de los Terrenos de Naturaleza Urbana (Plusvalía)(IIVTNU)
+213|Recurso de Reposición de Tasas
+214|Recurso de Reposición contra diligencia de embargo
+215|Recurso de Reposición contra Providencia de Apremio
+216|SEP- Solicitud sistema especial de pago
+217|Solicitud de fraccionamiento y aplazamiento de pago de deudas
+218|Solicitud de compensación de deuda
+219|Constitución garantías (fianzas en metálico y avales bancarios)
+220|Solicitud devolución de garantías Infraestructuras (aval o certificado de seguro de caución / fianzas metálicas)
+221|Solicitud devolución de garantías Medio Ambiente (aval o certificado de seguro de caución / fianzas metálicas)

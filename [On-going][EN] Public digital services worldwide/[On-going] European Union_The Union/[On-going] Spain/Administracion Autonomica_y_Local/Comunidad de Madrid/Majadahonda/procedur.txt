@@ -1,0 +1,10 @@
+Number|Name|Description|Purpose|Who can request it|When can be requested it|Where can be requested it|who is the administrative resolver|Max period of time to resolve|economical fees or taxes|document requirements|Next procedures or legal proccesses
+
+
+1|Registro-Registro E/S
+2|Consulta de la hoja padronal del usuario
+3|Descarga volante de empadronamiento individual
+4|Solicitud del certificado de empadronamiento del usuario
+5|Alta de Habitantes
+6|Modificar Datos Habitantes de la Hoja
+7|Cambiar Domicilio de Habitantes
