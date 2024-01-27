@@ -17,7 +17,7 @@
 
 [2023] Presupuestos Generales del Estado 2023: 389.927.490.000€ (ingresos) - 485.985.812.220€ (gastos) 
 
-Dinero|Clasificacion organiza
+Dinero|Clasificacion organica
 203.732.903.360|60. Seguridad Social
 45.087.970.530|38. Sistemas de Financiación de Entes Territoriales
 31.275.104.090|06. Deuda Pública
